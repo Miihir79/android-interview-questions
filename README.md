@@ -138,6 +138,7 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - What makes kotlin the best language for native development? <a href="https://kotlinlang.org/docs/comparison-to-java.html">read</a>
 - Explain the internal working of a RecyclerView. <a href="https://blog.mindorks.com/how-does-recyclerview-work-internally">read</a>
 - On which thread would you update the UI components?- Main thread.
+- What are Kotlin Extension functions? <a href="https://www.javatpoint.com/kotlin-extension-function">read</a>
 - What are companion objects? <a href="https://medium.com/swlh/kotlin-basics-of-companion-objects-a8422c96779b">read</a>
 - Fragment lifecycle <a href="https://developer.android.com/guide/fragments/lifecycle">read</a>
 - What are the diffrences between MVVM, MVC and MVP? <a href="https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android">read</a>
